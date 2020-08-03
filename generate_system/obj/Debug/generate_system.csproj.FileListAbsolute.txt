@@ -1,0 +1,11 @@
+E:\新桌面\智能系统\generate_system\generate_system\bin\Debug\generate_system.exe.config
+E:\新桌面\智能系统\generate_system\generate_system\bin\Debug\generate_system.exe
+E:\新桌面\智能系统\generate_system\generate_system\bin\Debug\generate_system.pdb
+E:\新桌面\智能系统\generate_system\generate_system\obj\Debug\generate_system.csprojAssemblyReference.cache
+E:\新桌面\智能系统\generate_system\generate_system\obj\Debug\generate_system.Form1.resources
+E:\新桌面\智能系统\generate_system\generate_system\obj\Debug\generate_system.Properties.Resources.resources
+E:\新桌面\智能系统\generate_system\generate_system\obj\Debug\generate_system.csproj.GenerateResource.cache
+E:\新桌面\智能系统\generate_system\generate_system\obj\Debug\generate_system.exe
+E:\新桌面\智能系统\generate_system\generate_system\obj\Debug\generate_system.pdb
+E:\新桌面\智能系统\generate_system\generate_system\obj\Debug\generate_system.Form2.resources
+E:\新桌面\智能系统\generate_system\generate_system\obj\Debug\generate_system.csproj.CopyComplete
